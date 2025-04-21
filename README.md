@@ -23,7 +23,12 @@
 ![](./images/shopify-52.png)
 
 ## Step 6: Contact the administrator to obtain the distribution address
-
+    Contact info:
+    
+    Email: tech@coinpal.io
+    
+    Telegram: @carter_crypto
+    
     Click Install
  
 ![](./images/shopify-61.png)
