@@ -16,6 +16,8 @@
 
 ## Step 4: Go to your [CoinPal Account](https://portal.coinpal.io/#/admin/myAccount/Business) > My Account > My Store > choose/add store & click "Configuration" > click"Shopify" and fill the fields using the info from the Shopify API credentials tab (access token)
 
+![](./images/shopify-41.png)
+
 ![](./images/shopify-51.png)
 
 ## Step 5: Click "Connect to Shopify"
