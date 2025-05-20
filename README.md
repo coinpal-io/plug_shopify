@@ -18,23 +18,32 @@
 
 ![](./images/shopify-41.png)
 
-![](./images/shopify-51.png)
+Click "Connect to Shopify"
 
-## Step 5: Click "Connect to Shopify"
+![](./images/shopify-42.png)
+
+## Step 5: After a successful connection, please click the "Get Installation Address" button displayed on the page. We will complete the review within 1 to 3 business days. Once approved, the installation address will be displayed.
+
+Contact info:
+   
+Email: tech@coinpal.io
+
+Telegram: @carter_crypto
+    
+![](./images/shopify-51.png)
 
 ![](./images/shopify-52.png)
 
-## Step 6: Contact the administrator to obtain the distribution address
-    Contact info:
-    
-    Email: tech@coinpal.io
-    
-    Telegram: @carter_crypto
-    
-    Click Install
+
+## Step 6: Install the Shopify App
+
+Click "Installation link" 
+
+![](./images/shopify-53.png)
+
+Click "Install"
  
 ![](./images/shopify-61.png)
-
 
 
 ## Step 7: Add Coinpal application in the custom template
@@ -51,7 +60,7 @@
 
 ## Step 8: Go to Shopify Settings > Payment Providers > Manual Payment Methods. Add a Custom payment method, ensure the Custom payment method name is the same as the one you set in the CoinPal > My Account  > My Store > Payment method name.Then activate it.
 
-![](./images/shopify-91.png)
+![](./images/shopify-81.png)
 
 ![](./images/shopify-9.png)
 
@@ -59,7 +68,7 @@
 
 ![](./images/shopify-10.png)
 
-    Click "Edit code"
+Click "Edit code"
     
 ![](./images/shopify-11.png)
 
