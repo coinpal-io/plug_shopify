@@ -54,8 +54,10 @@ Click "Install"
 
 ![](./images/shopify-64.png)
 
+Add application
 ![](./images/shopify-65.png)
 
+Click to "Save"
 ![](./images/shopify-66.png)
 
 ## Step 8: Go to Shopify Settings > Payment Providers > Manual Payment Methods. Add a Custom payment method, ensure the Custom payment method name is the same as the one you set in the CoinPal > My Account  > My Store > Payment method name.Then activate it.
