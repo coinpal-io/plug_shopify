@@ -1,24 +1,71 @@
 # How to start accepting crypto on Shopify
 
-## Step 1: Go to your Shopify "Apps", click "Develop Apps" and "Create an App". Enter the App name and the developer's email
+## Step 1: Go to your Shopify "Apps", click "Apps" and "Develop Apps". 
 
 ![](./images/shopify-1.png)
 
-## Step 2: In Configuration tab, choose "Admin API integration". Give a "Read and Write" permission to Orders and Draft orders and click "Save"
+## Step 2: Create Apps.
 
-![](./images/shopify-2.png)
+click "Build apps in Dev Dashboard" and "Create app" and "Create"
 
-## Step 3: Go to the API credentials tab and press "install app". Click "Reveal token once" in the module of Admin API access token
+![](./images/acc1.png)
 
-![](./images/shopify-3.png)
+![](./images/acc2.png)
 
-![](./images/shopify-4.png)
+![](./images/acc3.png)
+
+click "Create version"
+
+![](./images/acc40.png)
+
+click "Request access" 
+
+![](./images/acc41.png)
+
+![](./images/acc42.png)
+
+Select "Store Management" and "App Functionality", then click "Save"
+
+![](./images/acc43.png)
+
+![](./images/acc44.png)
+
+Select "Yes" for all options, then click "Save"
+
+![](./images/acc45.png)
+
+![](./images/acc46.png)
+
+
+Go back to the Coinpal app, open "Versions", then click "Create version"
+
+![](./images/acc47.png)
+
+Select the required permissions, then click "Done" and "Release"
+
+![](./images/acc48.png)
+
+![](./images/acc5.png)
+
+![](./images/acc6.png)
+
+![](./images/acc7.png)
+
+Save the "Client ID" and "Secret"; they will be required in Step 4 when connecting Coinpal to Shopify
+
+![](./images/acc8.png)
+
+## Step 3: Install app.
+
+![](./images/acc9.png)
+
+![](./images/acc10.png)
 
 ## Step 4: Go to your [CoinPal Account](https://portal.coinpal.io/#/admin/myAccount/Business) > My Account > My Store > choose/add store & click "Configuration" > click"Shopify" and fill the fields using the info from the Shopify API credentials tab (access token)
 
 ![](./images/shopify-41.png)
 
-Click "Connect to Shopify"
+Enter the "Client ID" and "Secret" from Step 3, then click "Connect to Shopify"
 
 ![](./images/shopify-42.png)
 
