@@ -18,29 +18,6 @@ click "Create version"
 
 ![](./images/acc40.png)
 
-click "Request access" 
-
-![](./images/acc41.png)
-
-![](./images/acc42.png)
-
-Select "Store Management" and "App Functionality", then click "Save"
-
-![](./images/acc43.png)
-
-![](./images/acc44.png)
-
-Select "Yes" for all options, then click "Save"
-
-![](./images/acc45.png)
-
-![](./images/acc46.png)
-
-
-Go back to the Coinpal app, open "Versions", then click "Create version"
-
-![](./images/acc47.png)
-
 Select the required permissions, then click "Done" and "Release"
 
 ![](./images/acc48.png)
@@ -120,8 +97,8 @@ Click to "Save"
 Click "Edit code"
     
 ![](./images/shopify-11.png)
-
-    Replace the "Thank you for your purchase!" with the following code
+ Replace the "Thank you for your purchase!" with the following code
+    
      {% if financial_status=='paid' %}
         Thank you for your purchase!
      {% else %}
@@ -129,12 +106,12 @@ Click "Edit code"
      {% endif %}
     
 ![](./images/shopify-12.png)
-
-    Replace the "We're getting your order ready to be shipped. We will notify you when it has been sent." with the following code
+ Replace the "We're getting your order ready to be shipped. We will notify you when it has been sent." with the following code
+     
      {% if financial_status=='paid' %}
         We're getting your order ready to be shipped. We will notify you when it has been sent.
      {% else %}
-        You can continue to pay by clicking &quot;View your order&quot; below
+        You can continue to pay by clicking "View your order" below.
      {% endif %}
      
 ![](./images/shopify-13.png)
